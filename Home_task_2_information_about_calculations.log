@@ -30,7 +30,7 @@
 2025-12-06 16:04:07,539 - INFO - Содержимое https://tech.onliner.by/2025/12/06/astrapoglyad-golosovanie имеет размер 169320 символов
 2025-12-06 16:04:08,351 - INFO - Содержимое https://www.nbrb.by/apihelp/exrates имеет размер 138944 символов
 2025-12-06 16:04:08,354 - INFO - Время выполнения: 00:00:02.
-2025-12-06 16:04:14,438 - INFO - Вариант 3 - multiprocessing: Работа функции download_content.
+2025-12-06 16:04:14,438 - INFO - Вариант 3 - multiprocessing: Работа функции download_content.git a
 2025-12-06 16:04:15,358 - INFO - Содержимое https://www.nbrb.by/apihelp/exrates имеет размер 138944 символов
 2025-12-06 16:04:15,369 - INFO - Содержимое https://www.onliner.by/ имеет размер 526670 символов
 2025-12-06 16:04:15,370 - INFO - Содержимое https://www.onliner.by/ имеет размер 526691 символов

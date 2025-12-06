@@ -19,6 +19,7 @@
 # программ, сравнить. По заданию 2 тоже замерить и сравнить.
 # Сделать выводы
 
+
 #Это 3-ая программа из 1-ой задачи (результаты в логе Home_task_information_about_calculations.log)
 import multiprocessing   # Импорт модуля multiprocessing для использования возможностей мультипроцессинга
 import time
